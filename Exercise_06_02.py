@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 2
+
 MAX = 5
 
 

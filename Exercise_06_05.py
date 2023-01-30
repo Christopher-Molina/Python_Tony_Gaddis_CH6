@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 5
+
 def main():
     try:
         # Open numbers.txt for reading

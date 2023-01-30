@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 12
+
 # Number of months in a year
 MONTHS = 12
 

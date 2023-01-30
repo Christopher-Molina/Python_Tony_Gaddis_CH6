@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 6
+
 def main():
     try:
         # Open the file for reading

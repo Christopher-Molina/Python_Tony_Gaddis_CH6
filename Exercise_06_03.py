@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 3
+
 def main():
     try:
         # Input the name of a file

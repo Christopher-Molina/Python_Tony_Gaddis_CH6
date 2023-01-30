@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 10
+
 def main():
     try:
         # Create a variable to control the loop

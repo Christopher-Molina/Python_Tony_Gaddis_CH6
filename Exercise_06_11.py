@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 6 - Exercise 11
+
 def main():
     # Input student name
     student_name = input('Enter your name: ')
